@@ -9,6 +9,6 @@ Inspecting a device via Safari's remote web inspector involves [a lot of clickin
 2. Double click the downloaded file
 
 ## Usage
-1. Connect your iOS device to your machine
-2. [Determine your iOS device name](http://support.apple.com/kb/ht3965)
+1. Connect your iOS device to your machine via USB
+2. [Determine your iOS device's name](http://support.apple.com/kb/ht3965)
 3. `inspect [device]`
